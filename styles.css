@@ -71,7 +71,7 @@ a:hover {
 .block {
   text-align: center;
   background-color: #2d2f39;
-  padding: 30px;
+  padding: 10px;
 }
 
 .banner {
@@ -89,7 +89,7 @@ a:hover {
 }
 
 .profile {
-  margin-top: -70px;
+  margin-top: -10%;
   /* background-color: #0e2dc7; */
   background-color: transparent; 
 }
@@ -99,8 +99,8 @@ a:hover {
 }
 
 .profile img {
-  width: 200px;
-  height: 200px;
+  width: 20vw;
+  height: 20vw;
   border-radius: 50%;
   margin: 0 1em;
 }
